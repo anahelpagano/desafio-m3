@@ -307,6 +307,7 @@ body{
 
 .inputs-titulo{
  font-family: "Open Sans";
+ color: white;
  font-size: 32px;
  text-align: center;
  padding-top: 64px;
@@ -336,6 +337,7 @@ body{
 .label{
     display: block;
     font-family: "Roboto";
+    color: white;
     font-size: 13px;
     width: 54px;
     height: 15px;
