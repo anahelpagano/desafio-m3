@@ -293,7 +293,6 @@ body{
 
 .inputs{
     background-color: black;
-    color: sandybrown;
     width: 100%;
     min-height: 660px;
     display: flex;
@@ -308,6 +307,7 @@ body{
 
 .inputs-titulo{
  font-family: "Open Sans";
+ color: peachpuff;
  font-size: 32px;
  text-align: center;
  padding-top: 64px;
@@ -337,6 +337,7 @@ body{
 .label{
     display: block;
     font-family: "Roboto";
+    color: peachpuff;
     font-size: 13px;
     width: 54px;
     height: 15px;
